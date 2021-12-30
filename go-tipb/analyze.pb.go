@@ -49,6 +49,7 @@
 		Limit
 		Kill
 		ExecutorExecutionSummary
+		GraphScan
 		FieldType
 		Expr
 		RpnExpr
